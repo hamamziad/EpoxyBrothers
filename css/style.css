@@ -148,7 +148,7 @@ margin-bottom:10px;
 .projects,
 .pricing,
 .service-area,
-.contact-preview{
+.{
 padding:90px 0;
 }
 
@@ -260,8 +260,8 @@ padding:12px 20px;
 border-radius:50px;
 }
 
-.contact-preview .btn-primary{
-margin-top:20px;
+.contact-preview{
+text-align:center;
 }
 
 .contact-preview h2{
