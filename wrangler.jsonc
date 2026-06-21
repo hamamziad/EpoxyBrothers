@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "epoxybrothers",
+  "compatibility_date": "2026-06-21",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "Epoxy Brothers"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
