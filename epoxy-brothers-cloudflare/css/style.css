@@ -1,0 +1,7 @@
+
+body{font-family:Arial,sans-serif;margin:0;background:#111;color:#fff}
+header{padding:20px;background:#000}
+nav a{color:#fff;margin-right:15px;text-decoration:none}
+.hero{padding:100px 20px;text-align:center}
+.btn{background:#0a9d4b;color:#fff;padding:12px 18px;text-decoration:none;border-radius:6px}
+section{padding:40px 20px}
