@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
 
-console.log("Epoxy Brothers Website Loaded");
+console.log("H3 Epoxy Website Loaded");
 
 const links = document.querySelectorAll("nav a");
 
